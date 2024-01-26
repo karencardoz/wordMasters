@@ -1,7 +1,7 @@
 ## Word Masters Game
 
 ## Overview
-User gets 6 chances to guess the word of the day
+User gets 6 chances to guess the word of the day. 
 It utilizes word from the following endpoint: [https://words.dev-apis.com/word-of-the-day])
 
 ## Features
