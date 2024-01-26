@@ -5,10 +5,9 @@ User gets 6 chances to guess the word of the day.
 It utilizes word from the following endpoint: [https://words.dev-apis.com/word-of-the-day])
 
 ## Features
-- Utilizes the Pokemon API to displays a pokemon image.
-- Presents an input field for the Pokemon ID
-- Display Pokemon Image
-
+- Utilizes the Word of the Day API
+- Presents an grid for user to input guess letters
+- Displays correct / wrong position indicator for letters
 
 ## API Endpoint
 Get word of the day from the API endpoint: [(https://words.dev-apis.com/word-of-the-day)].
